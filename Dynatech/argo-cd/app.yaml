@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Alexrubiolv/mysql-replica
+    repoURL: https://github.com/Alexrubiolv/taskjan
     targetRevision: HEAD
     path: mySQL/
     directory:
